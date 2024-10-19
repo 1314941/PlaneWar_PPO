@@ -1,0 +1,13 @@
+-----------Memory usage-----------
+[top 10]
+<frozen importlib._bootstrap_external>:672: size=35.8 MiB, count=278776, average=135 B
+c:\anaconda\envs\wzry_ai\lib\dataclasses.py:432: size=1871 KiB, count=19487, average=98 B
+<frozen importlib._bootstrap>:241: size=1326 KiB, count=9730, average=140 B
+<string>:1: size=593 KiB, count=178, average=3410 B
+c:\Users\xiaobai\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1309: size=576 KiB, count=1, average=576 KiB
+c:\Users\xiaobai\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1106: size=576 KiB, count=1, average=576 KiB
+c:\anaconda\envs\wzry_ai\lib\site-packages\ppocronnx\utility.py:290: size=534 KiB, count=6505, average=84 B
+c:\anaconda\envs\wzry_ai\lib\dataclasses.py:433: size=456 KiB, count=1439, average=324 B
+c:\Users\xiaobai\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1073: size=450 KiB, count=8214, average=56 B
+c:\Users\xiaobai\.vscode\extensions\ms-python.debugpy-2024.12.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1291: size=449 KiB, count=8189, average=56 B
+[end]

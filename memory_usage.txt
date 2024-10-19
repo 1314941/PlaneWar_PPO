@@ -1,0 +1,16 @@
+-----------Memory usage-----------
+[top 10]
+c:\anaconda\envs\wzry_ai\lib\multiprocessing\connection.py:251: size=60.6 MiB, count=202, average=307 KiB
+c:\anaconda\envs\wzry_ai\lib\site-packages\torch\serialization.py:828: size=14.8 KiB, count=189, average=80 B
+c:\anaconda\envs\wzry_ai\lib\tracemalloc.py:67: size=5632 B, count=88, average=64 B
+c:\anaconda\envs\wzry_ai\lib\site-packages\torch\_dynamo\eval_frame.py:429: size=5040 B, count=30, average=168 B
+c:\anaconda\envs\wzry_ai\lib\site-packages\torch\serialization.py:840: size=4940 B, count=66, average=75 B
+c:\anaconda\envs\wzry_ai\lib\site-packages\numpy\core\fromnumeric.py:59: size=4824 B, count=111, average=43 B
+c:\anaconda\envs\wzry_ai\lib\site-packages\torch\autograd\graph.py:744: size=4536 B, count=27, average=168 B
+<string>:1: size=3232 B, count=36, average=90 B
+C:\chat\PlaneWar (2)\dqnAgent.py:77: size=2760 B, count=63, average=44 B
+C:\chat\PlaneWar (2)\dqnAgent.py:93: size=2760 B, count=5, average=552 B
+[end]
+---num---
+globalInfo num:0
+----------

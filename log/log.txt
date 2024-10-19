@@ -1,0 +1,31 @@
+
+2024-10-19 10:56:31
+ evaluate_num:1 	 average_reward:433.00606882067257 	
+ best_score:184.0 	
+2024-10-19 11:01:11
+ evaluate_num:2 	 average_reward:0.0 	
+ best_score:220.0 	
+2024-10-19 12:07:36
+ evaluate_num:1 	 average_reward:86.24186904696325 	
+ best_score:438.0 	
+2024-10-19 12:08:07
+ evaluate_num:2 	 average_reward:0.0 	
+ best_score:438.0 	
+2024-10-19 12:15:47
+ evaluate_num:3 	 average_reward:72.91177065617957 	
+ best_score:438.0 	
+2024-10-19 15:30:58
+ evaluate_num:1 	 average_reward:77.11922539431261 	
+ best_score:476.0 	
+2024-10-19 15:31:39
+ evaluate_num:2 	 average_reward:0.0 	
+ best_score:476.0 	
+2024-10-19 15:32:06
+ evaluate_num:3 	 average_reward:0.0 	
+ best_score:476.0 	
+2024-10-19 15:32:43
+ evaluate_num:4 	 average_reward:0.0 	
+ best_score:476.0 	
+2024-10-19 15:33:26
+ evaluate_num:5 	 average_reward:0.0 	
+ best_score:476.0 	

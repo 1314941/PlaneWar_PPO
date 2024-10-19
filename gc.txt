@@ -1,0 +1,3 @@
+capacity:250
+length of memory:210
+Memory size of self.memory: 1912 MB

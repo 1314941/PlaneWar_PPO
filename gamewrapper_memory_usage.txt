@@ -1,0 +1,13 @@
+-----------Memory usage-----------
+[top 10]
+<frozen importlib._bootstrap_external>:672: size=2884 KiB, count=26532, average=111 B
+<frozen importlib._bootstrap>:241: size=700 KiB, count=7297, average=98 B
+c:\anaconda\envs\wzry_ai\lib\site-packages\ppocronnx\utility.py:290: size=534 KiB, count=6505, average=84 B
+c:\Users\xiaobai\.vscode\extensions\ms-python.debugpy-2024.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\pydevd.py:1055: size=288 KiB, count=1, average=288 KiB
+c:\Users\xiaobai\.vscode\extensions\ms-python.debugpy-2024.10.0-win32-x64\bundled\libs\debugpy\_vendored\pydevd\_pydevd_bundle\pydevd_trace_dispatch_regular.py:444: size=288 KiB, count=1, average=288 KiB
+c:\anaconda\envs\wzry_ai\lib\tracemalloc.py:505: size=201 KiB, count=3659, average=56 B
+c:\anaconda\envs\wzry_ai\lib\tracemalloc.py:498: size=172 KiB, count=3653, average=48 B
+c:\anaconda\envs\wzry_ai\lib\tracemalloc.py:67: size=125 KiB, count=1996, average=64 B
+c:\anaconda\envs\wzry_ai\lib\tracemalloc.py:193: size=77.6 KiB, count=1656, average=48 B
+c:\anaconda\envs\wzry_ai\lib\abc.py:106: size=60.5 KiB, count=284, average=218 B
+[end]
